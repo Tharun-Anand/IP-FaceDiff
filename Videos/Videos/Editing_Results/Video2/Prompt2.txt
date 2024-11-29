@@ -1,0 +1,3 @@
+Prompt1:Add Beard
+Prompt2:Add Beard,Eyeglasses
+Prompt3:Add Beard,Eyeglasses,Blonde Hair
