@@ -18,6 +18,9 @@ pip install -r requirements.txt
 
 ## Inference
 ```
+IP-FaceDiff is designed for video for structure-preserving edits.
+Our method is built on top of an image editing technique (e.g., Plug-and-Play,ControlNet.)
+To edit your video, first create a yaml config as in configs/config_pnp.yaml. Then run
 python inference.py
 
 ```
