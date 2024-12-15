@@ -1,5 +1,5 @@
-# Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations
-# Paper is currently under review(Training code will be released upon acceptance)
+# IP-FaceDiff(Identity Preserving Facial Video Editing with Diffusion)
+# Paper is currently under review(codes will be released upon acceptance)
 
 ![Overview](Videos/Videos/face_editing.png)
 
