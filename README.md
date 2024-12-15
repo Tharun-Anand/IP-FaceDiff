@@ -1,7 +1,7 @@
 # Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations
 # Paper is currently under review(Training code will be released upon acceptance)
 
-![Overview](assets/images/outline.png)
+![Overview](Videos/Videos/face_editing.png)
 
 ## Setup
 ```
