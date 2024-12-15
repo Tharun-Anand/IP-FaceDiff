@@ -1,4 +1,4 @@
-# IP-FaceDiff(Identity Preserving Facial Video Editing with Diffusion)
+# IP-FaceDiff
 # Paper is currently under review(codes will be released upon acceptance)
 
 ![Overview](Videos/Videos/face_editing.png)
@@ -18,8 +18,6 @@ pip install -r requirements.txt
 
 ## Inference
 ```
-# Detect videos as fake or real with probability
-python inference.py --video_path assets/videos
-
+python inference.py
 
 ```
