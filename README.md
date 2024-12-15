@@ -1,5 +1,5 @@
-# IP-FaceDiff(WACV 2024)
-# Paper is currently under review(codes will be released upon acceptance)
+# IP-FaceDiff(WACV 2024 under review)
+
 
 ![Overview](Videos/Videos/face_editing.png)
 
