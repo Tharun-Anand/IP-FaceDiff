@@ -5,9 +5,9 @@
 
 ## Setup
 ```
-conda create -n deepfakedet --y python=3.12
-conda activate deepfakedet
-pip install -r requirements.txt 
+conda create -n ipfacediff python=3.9
+conda activate ipfacediff
+pip install -r requirements.txt
 ```
 ## Weights and test videos
 ```
