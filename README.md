@@ -1,4 +1,4 @@
-# IP-FaceDiff(WACV 2024 accepted)
+# IP-FaceDiff(WACV 2024)
 
 
 ![Overview](Videos/Videos/face_editing.png)
